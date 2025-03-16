@@ -1,4 +1,4 @@
-# python# Python Learning Projects
+# Python Learning Projects
 
 This repository contains five structured Python projects designed to progressively build knowledge in Python, covering fundamental concepts, data manipulation, object-oriented programming, and advanced topics like data-oriented design and decorators.
 
